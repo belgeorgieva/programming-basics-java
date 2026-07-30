@@ -21,21 +21,22 @@ This repository contains my solutions to the **Programming Basics** course at **
 
 ## 📁 Repository Structure
 
-```
+```text
 src/
-├── First Steps in Coding
-├── Conditional Statements
-├── Conditional Statements Advanced
-├── For Loops
-├── While Loops
-└── Nested Loops
+├── Weekly Exercises
+├── Additional Exercises
+├── Practice Problems
+├── Weekend Assignments
+├── Exam Preparation
+├── Sample Exams
+└── Final Exam Solutions
 ```
 
-Each folder contains solutions to the exercises and problems from the corresponding course topic.
+The `src` directory contains solutions organized by topic, exercises, and exam preparation materials completed throughout the course.
 
 ## 🎯 Purpose
 
-This repository documents my progress throughout the **Programming Basics** course at **Software University (SoftUni)**. It contains my solutions to the practical exercises and serves as a reference for my Java learning journey.
+This repository documents my progress throughout the **Programming Basics** course at **Software University (SoftUni)**. It contains my solutions to course exercises, additional practice problems, and exam preparation tasks, serving as a reference throughout my Java learning journey.
 
 ---
 
@@ -46,7 +47,7 @@ This repository documents my progress throughout the **Programming Basics** cour
 | **Course** | Programming Basics |
 | **Institution** | Software University (SoftUni) |
 | **Edition** | July 2024 |
-| **Final Grade** | ⭐ **6.00 / 6.00** |
+| **Final Grade** | ⭐ **Practical: 6.00** \| **Theory: 6.00** |
 
 ---
 
