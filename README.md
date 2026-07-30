@@ -32,11 +32,11 @@ src/
 └── Final Exam Solutions
 ```
 
-The `src` directory contains solutions organized by topic, exercises, and exam preparation materials completed throughout the course.
+The `src` directory contains weekly exercises, additional practice tasks, exam preparation materials, and solutions completed throughout the course.
 
 ## 🎯 Purpose
 
-This repository documents my progress throughout the **Programming Basics** course at **Software University (SoftUni)**. It contains my solutions to course exercises, additional practice problems, and exam preparation tasks, serving as a reference throughout my Java learning journey.
+This repository showcases my progress throughout the **Programming Basics** course at **Software University (SoftUni)**. It includes my solutions to exercises, additional practice problems, and exam preparation tasks while demonstrating the development of my Java programming skills.
 
 ---
 
@@ -51,4 +51,4 @@ This repository documents my progress throughout the **Programming Basics** cour
 
 ---
 
-⭐ Feel free to explore my other Java repositories to follow my learning journey.
+⭐ Thank you for visiting this repository! Feel free to explore my other Java projects.
